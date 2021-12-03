@@ -1,4 +1,4 @@
-﻿namespace aocday1 {
+﻿namespace aocday2 {
     class Program {
         static void Main(string[] args) {
             string[] input = File.ReadAllLines(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "input.txt"));
